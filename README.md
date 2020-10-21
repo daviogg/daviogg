@@ -1,5 +1,5 @@
 ### 
-![Personal Image](https://github.com/JeyDi/JeyDi/blob/master/CoverGH.png "CoverGH")
+![Personal Image](https://github.com/daviogg/daviogg/blob/master/CoverGH.png "CoverGH")
 
 <!--
 **daviogg/daviogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
