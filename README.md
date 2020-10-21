@@ -1,5 +1,5 @@
 ###
-![Personal Image](https://github.com/daviogg/daviogg/blob/master/coverGit.png "coverGit")
+![Personal Image](https://github.com/daviogg/daviogg/blob/master/coverGit.jpg "coverGit")
 
 
 <a href="https://twitter.com/Daviogg" target="_blank" rel="nofollow"><img align="right" alt="Davide's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/davide-oggioni-a18992139" target="_blank" rel="nofollow"><img align="right" alt="Davide's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/daviogg" target="_blank" rel="nofollow"><img align="right" alt="Davide's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
