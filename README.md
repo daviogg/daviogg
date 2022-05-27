@@ -16,10 +16,10 @@ I am a developer who is passionate about new technologies and innovation. Focus 
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviogg&layout=compact&theme=radical&hide=ShaderLab,HLSL,ASP.NET,smalltalk,&exclude_repo=Devcember,HoloPOC,rogue2k19&langs_count=8) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviogg&count_private=true&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/daviogg)
 
-<div style="display: flex; flex-direction: row;">
+<p align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviogg&layout=compact&theme=radical&hide=ShaderLab,HLSL,ASP.NET,smalltalk,&exclude_repo=Devcember,HoloPOC,rogue2k19&langs_count=8" />
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=daviogg&count_private=true&hide=stars&show_icons=true&theme=tokyonight" />
-</div>
+</p>
 
 </p>
 </details>
